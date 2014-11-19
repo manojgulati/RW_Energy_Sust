@@ -20,7 +20,7 @@ Seminal paper in NILM: Hart proposed NILM as a novel way to disaggregate loads a
 SB LEEB 2008	IEEE transaction on Instrumentation and measurement	
 Explains how STFT of power line harmonics can help in fault detection in electrical loads and machinaries
 
-6 Non-intrusive monitoring and service adaptation for WS-BPEL
+6 Non-intrusive monitoring√äand service adaptation for WS-BPEL
 "Moser, Oliver, Florian Rosenberg, and Schahram Dustdar"	
 2008	WWW
 	
@@ -69,11 +69,11 @@ Bergman
 MARIO Berges	
 2012	SUSTKDD	
 
-18 State of art on load monitoring methods	
+18 State of art on√äload monitoring methods	
 "Najmeddine, Hala, K. El Khamlichi Drissi, Christophe Pasquier, Claire Faure, Kamal Kerroum, Alioune Diop, Thierry Jouannet, and Michel Michou."
 2008	IEEE Power and Energy 	
 
-19 Event detection for non intrusive load monitoring	MARIO Berges	
+19 Event detection for√änon intrusive load monitoring	MARIO Berges	
 2012	IEEE IECON	
 
 20	Instrumentation for high performance nonintrusive electrical load monitoring
@@ -94,4 +94,11 @@ MARIO Berges
 "Akbar, Mahmood, and Dr Zubair Ahmad Khan"
 2007	IEEE INMIC	
 
-25					
+25 "Monjolo: An energy-harvesting energy meter architecture."
+DeBruin, Samuel, Bradford Campbell, and Prabal Dutta. 
+11th ACM Conference on Embedded Networked Sensor Systems (Sensys'13)
+ACM, 2013. {Have to read}
+
+26 "Deltaflow: Submetering by Synthesizing Uncalibrated Pulse Sensor Streams." 
+Clark, Meghan, Bradford Campbell, and Prabal Dutta. 
+EEnergy'14 {Have to read}
