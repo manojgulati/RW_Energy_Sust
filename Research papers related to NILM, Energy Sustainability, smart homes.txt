@@ -102,3 +102,8 @@ ACM, 2013. {Have to read}
 26 "Deltaflow: Submetering by Synthesizing Uncalibrated Pulse Sensor Streams." 
 Clark, Meghan, Bradford Campbell, and Prabal Dutta. 
 EEnergy'14 {Have to read}
+
+27 "Common mode and Differential Mode EMI seperation using DSO" 
+Vivek Agarwal, IITB. 
+IEEE Tran. {Have to read}
+
