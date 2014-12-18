@@ -1,0 +1,109 @@
+[Serial no.]	  [Title of paper]	[Author]	[Year]	[Venue of Publication]	[Brief Abstract]
+
+1 Nonintrusive appliance load monitoring	
+GW HART	1992	IEEE Explore	
+Seminal paper in NILM: Hart proposed NILM as a novel way to disaggregate loads and give a detailed feedback to end user.
+
+2 Transient event detection in spectral envelope estimates for nonintrusive load monitoring	
+"Leeb, Steven B., Steven R. Shaw, and James L. Kirtley Jr."
+1995	IEEE transaction on Power delivery	
+
+3 Instrumentation for high performance nonintrusive electrical load monitoring	
+"Shaw, S. R., Abler, C. B., Lepard, R. F., Luo, D., Leeb, S. B., & Norford, L. K"
+1998	Journal of solar energy engineering	
+
+4 Transient event detection for nonintrusive load monitoring and demand side management using voltage distortion.	
+"Cox, R., Leeb, S. B., Shaw, S. R., & Norford, L. K."	
+2006	Applied Power Electronics Conference and Exposition	
+
+5 Nonintrusive load monitoring and diagnostics in power systems
+SB LEEB 2008	IEEE transaction on Instrumentation and measurement	
+Explains how STFT of power line harmonics can help in fault detection in electrical loads and machinaries
+
+6 Non-intrusive monitoringÊand service adaptation for WS-BPEL
+"Moser, Oliver, Florian Rosenberg, and Schahram Dustdar"	
+2008	WWW
+	
+7 Nonintrusive appliance load monitoring: Review and outlook
+"Zeifman, Michael, and Kurt Roth"	
+2011	IEEE transaction on Consumer electronics	
+Nicely written review which covers all most all the work done so far till 2011 in NILM community
+
+8 Power Signature Analysis	
+"Laughman, C., Lee, K., Cox, R., Shaw, S., Leeb, S., Norford, L., & Armstrong"
+2003	"Power and Energy Magazine, IEEE"	
+
+9 ViridiScope: design and implementation of a fine grained power monitoring system for homes	
+"Kim, Younghun, Thomas Schmid, Zainul M. Charbiwala, and Mani B. Srivastava"	
+2009	Ubicomp
+	
+10 Non-intrusive electrical load monitoring in commercial buildings based on steady-state and transient load-detection algorithms	
+"Norford, Leslie K., and Steven B. Leeb"	
+1996	Energy And Buildings	
+
+11 ElectriSense: single-point sensing using EMI for electrical event detection and classification in the home	
+Sidhant Gupta	
+2010	Ubicomp	
+
+12 REDD: A public data set for energy disaggregation research
+"Kolter, J. Zico, and Matthew J. Johnson"
+2011	SIGKDD	
+
+13 Non-Intrusive Load Monitoring Using Prior Models of General Appliance Types.	
+"Parson, Oliver, Siddhartha Ghosh, Mark Weal, and Alex Rogers"
+2012	AAAI	
+
+14 Load recognition for different loads with the same real power and reactive power in a non-intrusive load-monitoring system
+"Chang, Hsueh-Hsien, Ching-Lung Lin, and Hong-Tzer Yang"
+2008	IEEE CSCWD	
+
+15 Nonintrusive appliance load monitoring based on integer programming	
+"Suzuki, Kosuke,"
+2008	IEEE SICE	
+
+16 Distributed non-intrusive load monitoring	
+Bergman	
+2011	IEEE ISGT	
+
+17 BLUED: a fully labeled public dataset for Event-Based Non-Intrusive load monitoringresearch	
+MARIO Berges	
+2012	SUSTKDD	
+
+18 State of art onÊload monitoring methods	
+"Najmeddine, Hala, K. El Khamlichi Drissi, Christophe Pasquier, Claire Faure, Kamal Kerroum, Alioune Diop, Thierry Jouannet, and Michel Michou."
+2008	IEEE Power and Energy 	
+
+19 Event detection forÊnon intrusive load monitoring	MARIO Berges	
+2012	IEEE IECON	
+
+20	Instrumentation for high performance nonintrusive electrical load monitoring
+"Shaw, S. R., C. B. Abler, R. F. Lepard, D. Luo, S. B. Leeb, and L. K. Norford."
+1998	Journal of solar energy engineering	
+
+21 A framework for non-intrusive load monitoring and diagnostics
+"Paris, James."	2006	MIT MS Thesis	
+
+22 A conjoint pattern recognition approach to nonintrusive load monitoring	
+"Leeb, Steven B"
+1993	MIT PhD Thesis	
+
+23 Protecting consumer privacy from electric load monitoring "McLaughlin, Stephen, Patrick McDaniel, and William Aiello."	
+2011	ACM CCS	
+
+24 Modified nonintrusive appliance load monitoring for nonlinear devices	
+"Akbar, Mahmood, and Dr Zubair Ahmad Khan"
+2007	IEEE INMIC	
+
+25 "Monjolo: An energy-harvesting energy meter architecture."
+DeBruin, Samuel, Bradford Campbell, and Prabal Dutta. 
+11th ACM Conference on Embedded Networked Sensor Systems (Sensys'13)
+ACM, 2013. {Have to read}
+
+26 "Deltaflow: Submetering by Synthesizing Uncalibrated Pulse Sensor Streams." 
+Clark, Meghan, Bradford Campbell, and Prabal Dutta. 
+EEnergy'14 {Have to read}
+
+27 "Common mode and Differential Mode EMI seperation using DSO" 
+Vivek Agarwal, IITB. 
+IEEE Tran. {Have to read}
+
