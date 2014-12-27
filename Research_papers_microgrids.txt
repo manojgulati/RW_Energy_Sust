@@ -1,0 +1,9 @@
+[Serial no.]	  [Title of paper]	[Author]	[Year]	[Venue of Publication]	[Brief Abstract]
+
+1. 
+MicroGrids
+"R.H.Lasseter, Fellow, IEEE"
+2002
+Explains the basic structure of a MicroGrid and its control 
+
+2.
