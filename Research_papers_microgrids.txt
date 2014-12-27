@@ -6,4 +6,32 @@ MicroGrids
 2002
 Explains the basic structure of a MicroGrid and its control 
 
-2.
+2.Microgrid : A conceptual solution
+"R.H.Lasseter, Paolo Paigi"
+2004
+35th Annual IEEE Power Electronics Specialist Conference
+Introducted how microgrids can be used for distributed generation and conducted experiments on a microgrid at University of Wisconsin-Madison.
+
+3.Collaborative Energy Conservation in a Microgrid
+Mohit Jain,Harshad Khadilkar,Neha Sengupta,Zainul Charbiwala,Kushan U Tennakoon,Rodzay bin Haji Abdul Wahab,Liyanage Chandratilak De Silva, Deva P. Seetharam.
+2014
+Buidsys'2014
+Showed how collaborative scheduling of a DG(Diesel Generator) could lead to reduced fuel consumption and increased power availibility.
+
+4*.Sharing Renewable Energy in Smart Microgrids
+Ting Zhu,Zhichuan Huang,Ankur Sharma,Jikui Su,David Irwin,Aditya Mishra,Daniel Menasche and Prashant Shenoy.
+2012
+eEnergy'2012
+Introducted the concept of sharing of energy by nearby homes thus reducing the load on AC lines and eliminating the use of large batteries for storage purposes.
+
+5.SmartCharge: Cutting the Electricity Bill in Smart Homes with Energy Storage
+Aditya Mishra, David Irwin,Ting Zhu,Prashant Shenoy, and Jim Kurose.
+2012
+eEnergy'2012
+Introducted an algorithm that switches between home based storage and the grid during peak charges times.Real home data show savings of 10-15%  per day.
+
+6*.Minimizing Electricity Costs by Sharing Energy in Sustainable Microgrids
+Zhichuan Huang,Ting Zhu,Yu Gu,David Irwin,Aditya Mishra,Prashant Shenoy
+2014
+Buildsys'2014
+Similar concept of [Referance Paper-4]
