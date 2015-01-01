@@ -107,3 +107,7 @@ EEnergy'14 {Have to read}
 Vivek Agarwal, IITB. 
 IEEE Tran. {Have to read}
 
+28 Scholz, Markus, et al. "Sensewaves: Radiowaves for context recognition." Proceedings of the 9th International Conference on Pervasive Computing (Pervasive 2011).
+
+Quick Overview: This paper utilises in-built wireless modules as a RF sensor for location and context sensing. It shows how this RF sensor data can be used not only for location sensing (like in traditional RSSI based localisation) but rather fine grained activity sensing using RF imaging. In this energy in different bands is utilised along with noise figure and other variations in RF spectrum. 
+Learning: Nice way to draft introduction and related work section.
