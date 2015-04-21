@@ -1,14 +1,25 @@
+Conferences focussed on Building Energy Science
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 ACM Eenergy [Deadline - Jan'2015] {Passed}
 
-ACM Sensys [Deadline - March'2015]
+ACM Ubicomp [Deadline - March’ 2015] {Passed}
 
-IEEE SmartGridComm - [Deadline - 19 April, 2015]
+ACM Sensys [Deadline - March'2015] {Passed}
+
+IEEE SmartGridComm - [Deadline - 19 April, 2015] {Passed}
 
 ACM Buildsys [Deadline - July'2015]
 
 IEEE IGCC  [Deadline - July'2015]
 
 ACM IPSN  [Deadline - Oct'2015]
+
+ACM/IEEE PERCOM [Deadline  - Sep’ 2015]
+
+
+Journals focussed on Building Energy Science
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Building and Environment, The International Journal of Building 
 Science and its Applications - 
@@ -41,3 +52,13 @@ http://jen.sagepub.com/
 Energy Efficiency 
 http://www.springer.com/engineering/energy+technology/journal/12053 
 
+
+Other possible Journals (having good impact factor)
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+IEEE Transactions on Industrial Electronics
+IEEE Transactions on Consumer Electronics
+IEEE Transactions on Smart Grids 
+IEEE Transactions on Power Systems
+IEEE Sensors Journal
+MDPI Sensors Journal [Open access]
