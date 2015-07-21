@@ -3,5 +3,5 @@ NILM Adapt: Need and Vision
 Conference/ Journal | Year of Publication | -----------------------------Title of Paper-----------------------------| First Author Name | Author's Affiliation (optional)
 
 IEEE PERCOM 		| 2015				  | DOSE																	| Keyu Chen         | UWash
-IEEE 		 		| 1981				  | NILM																	| GW Hart 	        | UWash
+IEEE 		 		| 1981				  | NILM																	| GW Hart 	        | MIT
 

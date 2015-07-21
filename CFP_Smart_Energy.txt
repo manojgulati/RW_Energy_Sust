@@ -9,13 +9,13 @@ ACM Sensys [Deadline - March'2015] {Passed}
 
 IEEE SmartGridComm - [Deadline - 19 April, 2015] {Passed}
 
-ACM Buildsys [Deadline - July'2015]
+ACM Buildsys [Deadline - July'2015] {Passed}
 
 IEEE IGCC  [Deadline - July'2015]
 
-ACM IPSN  [Deadline - Oct'2015]
-
 ACM/IEEE PERCOM [Deadline  - Sep’ 2015]
+
+ACM IPSN  [Deadline - Oct'2015]
 
 
 Journals focussed on Building Energy Science
@@ -53,12 +53,45 @@ Energy Efficiency
 http://www.springer.com/engineering/energy+technology/journal/12053 
 
 
+List of IEEE Journals/Transactions
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IEEE Transactions on Industrial Electronics (Areas: Its scope encompasses the applications of electronics, controls and communications, instrumentation and computational intelligence for the enhancement of industrial and manufacturing systems and processes. Included are power electronics and drive control techniques, system control and signal processing, fault detection and diagnosis, power systems, instrumentation, measurement and testing, modeling and simulation, motion control, robotics, sensors and actuators, implementation of neural nets, fuzzy logic, and artificial intelligence in industrial systems, factory automation, communication, and computer networks)
+Impact Factor: 6.498
+Subjects: Communication, Networking & Broadcasting, Power, Energy, & Industry Applications, Signal Processing & Analysis
+Frequency: Monthly
+
+IEEE Transactions on Smart Grid [Areas: This is aimed at disseminating results of research on smart grid that relates to, arises from, or deliberately influences energy generation, transmission, distribution and delivery] 
+Subjects: Communication, Networking & Broadcasting, Computing & Processing, Power, Energy, & Industry Applications
+Impact Factor: 4.334
+Frequency: Quaterly
+
+IEEE Transactions on sustainable energy (Broad Areas: Energy generation, transmission, distribution and delivery.)
+Subjects: Fields, Waves & Electromagnetics, Power, Energy, & Industry Applications
+Impact Factor: 3.656
+Frequency: Quaterly
+
+IEEE Transactions on Instrumentation and Measurement (The scope of these papers may encompass: (1) theory, methodology, and practice of measurement; (2) design, development and evaluation of instrumentation and measurement systems and components used in generating, acquiring, conditioning and processing signals; (3) analysis, representation, display, and preservation of the information obtained from a set of measurements; and (4) scientific and technical support to establishment and maintenance of technical standards in the field of Instrumentation and Measurement)
+Subjects: Components, Circuits, Devices & Systems, Power, Energy, & Industry Applications
+Impact Factor: 1.79
+Frequency: Monthly
+
+IEEE Power & Energy Magazine
+Subjects: Power, Energy, & Industry Applications
+Impact Factor: 1.593
+Frequency: Bi-monthly
+
+IEEE Transactions on Consumer Electronics is the engineering and research aspects of the theory, design, construction, manufacture or end use of mass market electronics, systems, software and services for consumers.
+Subjects: Components, Circuits, Devices & Systems, Fields, Waves & Electromagnetics, Power, Energy, & Industry Applications
+Impact Factor: 1.157
+Frequency: Quaterly
+
+IEEE Instrumentation & Measurement Magazine [Areas: It covers a wide variety of topics in instrumentation, measurement, and systems that measure or instrument equipment or other systems]
+Subjects: Components, Circuits, Devices & Systems, Power, Energy, & Industry Applications
+Impact Factor: 0.474
+Frequency: Bi-monthly
+
 Other possible Journals (having good impact factor)
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
-IEEE Transactions on Industrial Electronics
-IEEE Transactions on Consumer Electronics
-IEEE Transactions on Smart Grids 
 IEEE Transactions on Power Systems
 IEEE Sensors Journal
 MDPI Sensors Journal [Open access]
