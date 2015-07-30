@@ -12,7 +12,6 @@ IEEE SmartGridComm - [Deadline - 19 April, 2015] {Passed}
 ACM Buildsys [Deadline - July'2015] {Passed}
 
 IEEE IGCC  [Deadline - July'2015]
-
 ACM/IEEE PERCOM [Deadline  - Sep’ 2015]
 
 ACM IPSN  [Deadline - Oct'2015]
@@ -93,5 +92,6 @@ Frequency: Bi-monthly
 Other possible Journals (having good impact factor)
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 IEEE Transactions on Power Systems
+IEEE Transactions on Power, Energy and systems
 IEEE Sensors Journal
 MDPI Sensors Journal [Open access]

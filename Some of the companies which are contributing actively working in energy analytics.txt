@@ -1,0 +1,50 @@
+Some of the companies which are contributing actively towards smart energy domain are:
+
+Big Companies:
+--> Belkin
+--> Intel
+--> GE
+--> IBM
+
+Small companies and Startups:
+--> Bidgely Inc.
+--> 4home
+--> EMME
+--> Navetas
+--> Enetics
+--> Qwiksense 
+--> Viridom (from Cyprus)
+--> Bleeve (Dutch)
+--> Entelligo
+--> Zenodys
+--> Stem (formerly PowerGenetics)
+--> Opower
+--> AutoGrid
+--> Nest
+--> Viridity Energy
+--> EcoFactor
+--> PlotWatt
+--> WegoWise
+--> Retroficiency
+--> GridNavigator
+--> Honest Buildings
+--> Gridium
+--> GreenKo
+--> EcoVent
+--> Sensibo
+--> Lunera Lighting
+--> Canfor
+--> Seeder
+--> Eyedro Green Solutions Inc.
+--> Greenoscope
+--> Grofie
+--> Strauss Energy
+--> EcoInsight
+--> kWhours
+--> Recurve
+--> BuildingIQ
+--> CalidaEnergy
+--> Zenatix
+
+
+
