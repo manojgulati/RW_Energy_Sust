@@ -1,0 +1,39 @@
+
+
+IEEE Transactions on Instrumentation and Measurement
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Shaw, Steven R., et al. "Nonintrusive load monitoring and diagnostics in power systems." Instrumentation and Measurement, IEEE Transactions on 57.7 (2008): 1445-1454.
+Cristaldi, Loredana, and Alessandro Ferrero. "Harmonic power flow analysis for the measurement of the electric power quality." Instrumentation and Measurement, IEEE Transactions on 44.3 (1995): 683-685.
+A. I. Cole and A. Albicki, “Data extraction for effective non-intrusive identification of residential power loads,” in Proc. IEEE Instrum. Meas. Technol. Conf., 1998, pp. 812–815.
+S. R. Shaw and C. R. Laughman, “A Kalman-filter spectral envelope preprocessor,” IEEE Trans. Instrum. Meas., vol. 56, no. 5, pp. 2010–2017, Oct. 2007.
+K. L. Chen and N. Chen, “A new method for power current measurement using a coreless hall effect current transformer,” IEEE Trans. Instrum. Meas., vol. 60, no. 1, pp. 158–169, Jan. 2011.
+
+
+IEEE Transactions on Power Delivery
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Leeb, Steven B., Steven R. Shaw, and JJames L. Kirtley Jr. "Transient event detection in spectral envelope estimates for nonintrusive load monitoring." Power Delivery, IEEE Transactions on 10.3 (1995): 1200-1210.
+Liang, Jian, et al. "Load signature study—Part I: Basic concept, structure, and methodology." Power Delivery, IEEE Transactions on 25.2 (2010): 551-560.
+Liang, Jian, et al. "Load signature study—Part II: Disaggregation framework, simulation, and applications." Power Delivery, IEEE Transactions on 25.2 (2010): 561-569.
+
+
+IEEE Transactions on Industry Applications
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chang, Hsueh-Hsien, et al. "A new measurement method for power signatures of nonintrusive demand monitoring and load identification." Industry Applications, IEEE Transactions on 48.2 (2012): 764-771
+Zhang, Pinjia, et al. "A survey of condition monitoring and protection methods for medium-voltage induction motors." Industry Applications, IEEE Transactions on 47.1 (2011): 34-46.
+Chang, Hsueh-Hsien, et al. "Particle-Swarm-Optimization-Based Nonintrusive Demand Monitoring and Load Identification in Smart Meters." Industry Applications, IEEE Transactions on 49.5 (2013): 2229-2236.
+
+
+IEEE Transactions on Consumer Electronics
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lam, H. Y., G. S. K. Fung, and W. K. Lee. "A novel method to construct taxonomy electrical appliances based on load signaturesof." Consumer Electronics, IEEE Transactions on 53.2 (2007): 653-660.
+Zeifman, Michael. "Disaggregation of home energy display data using probabilistic approach." Consumer Electronics, IEEE Transactions on 58.1 (2012): 23-31.
+Transaction on Consumer Electronics
+AERO: extraction of user's activities from electric power consumption data
+"Nonintrusive appliance load monitoring: Review and outlook." IEEE Transactions on Consumer Electronics (2011): 76-84.
+Hyun Sang Cho, Tatsuya Yamazaki, Minsoo Hahn, “Determining Location of Appliances from Multi-hop Tree Structures of Power Strip Type Smart Meters”, IEEE Transactions on Consumer Electronics, Volume 55, Issue 4, pp. 2314–2322, Nov. 2009. 
+K. Balasubramanian and A.Cellatoglu, “Improvements in Home Automation Strategies for Designing Apparatus for Efficient Smart Home,” IEEE Trans. Consumer Electro vol. 54, no. 4, pp. 1681-1687, Nov. 2008. 
+J. Heo, C. S. Hong, S. B. Kang, S. S. Jeon, “Design and Implementation of Control Mechanism for Standby Power Reduction,” IEEE Trans.
+Consumer Electron., vol. 54, no. 1, pp. 179-185, Feb. 2008. 
+Lipoff, “Home Automation – the Unrealized Promise,” IEEE Consumer Electronics Society Newsletter, pp. 13-14, Fall 2010. 
+
+
